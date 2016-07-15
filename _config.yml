@@ -5,7 +5,7 @@ logo:             logo.JPG # 添加博客 Logo
 avatar:           avatar.jpg # 添加你的头像
 favicon:          favicon.ico # 添加用于显示于浏览器 Tab 上的博客图标
 email:            lingerlin@live.cn
-description:      不惜歌者苦，但伤知音稀。愿为双鸿鹄，奋翅起高飞。 # 主题简介，可改为博客描述
+description:      '不惜歌者苦，但伤知音稀。愿为双鸿鹄，奋翅起高飞。' # 主题简介，可改为博客描述
   
 
 url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
