@@ -1,6 +1,6 @@
 # Site settings
-title:            "凋零之寒" # 添加博客标题
-author:           凋寒 # 添加你的名字
+title:            "凋零之寒"
+author:           凋寒
 logo:             logo.JPG # 添加博客 Logo
 avatar:           avatar.jpg # 添加你的头像
 favicon:          favicon.ico # 添加用于显示于浏览器 Tab 上的博客图标
@@ -11,7 +11,7 @@ description:      '不惜歌者苦，但伤知音稀。愿为双鸿鹄，奋翅�
 url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
 baseurl:          "" # the subpath of your site, e.g. /blog/
 
-twitter:          @Diao_Han # 添加你的 Twitter 用户名
+twitter:          Diao_Han # 添加你的 Twitter 用户名
 github:           HanLin0516 # 添加你的 GitHub 用户名
 disqus:           # 添加你的 Disqus 评论工具站点名
 
