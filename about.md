@@ -9,7 +9,6 @@ permalink: /About/
 </center>
 
 
----
 
 Hello. My Name is D.H. 
 
